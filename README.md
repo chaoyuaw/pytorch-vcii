@@ -84,7 +84,7 @@ it rouphly starts to reconstruct the frames.
 
 The final result using full training set will look like:
 
-![vtl_silent_0.289.png](https://github.com/chaoyuaw/vcii/blob/master/images/vtl_silent_0.289.png)
+![vtl_silent_0.289.png](demo/vtl_silent_0.289.png)
 
 
 Please see our [Project Page](https://chaoyuaw.github.io/vcii/)
