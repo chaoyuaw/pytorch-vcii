@@ -42,7 +42,7 @@ fi
 
 python -u train.py \
   --train ${train} \
-	--eval ${eval} \
+  --eval ${eval} \
   --train-mv ${train_mv} \
   --eval-mv ${eval_mv} \
   --encoder-fuse-level ${encoder_fuse_level} \
