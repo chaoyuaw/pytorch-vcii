@@ -105,5 +105,5 @@ If you find this model useful for your research, please use the following BibTeX
 </pre>
 
 ## Acknowledgment
-This implementation largely borrows from [pytorch-image-comp-rnn](https://github.com/1zb/pytorch-image-comp-rnn/) by [1zb](https://github.com/izb). U-net implementation borrows from [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet/tree/master/unet) by [milesial](https://github.com/milesial).
-Thank you, [1zb](https://github.com/izb) and [milesial](https://github.com/milesial)!
+This implementation largely borrows from [pytorch-image-comp-rnn](https://github.com/1zb/pytorch-image-comp-rnn/) by [1zb](https://github.com/izb). U-net implementation borrows from [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet/tree/master/unet) by [Milesi Alexandre](https://github.com/milesial).
+Thank you, [1zb](https://github.com/izb) and [Milesi Alexandre](https://github.com/milesial)!
