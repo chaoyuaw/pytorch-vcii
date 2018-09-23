@@ -5,6 +5,7 @@
 In ECCV, 2018. 
 [[Project Page](https://chaoyuaw.github.io/vcii/)]
 [[Paper](https://arxiv.org/abs/1804.06919)]
+<img class="" src = "./demo/teaser.png" height="405px"></img>
 
 ## Overview
 PyTorch implementation of deep video compression codec. 
