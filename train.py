@@ -182,7 +182,7 @@ while True:
             '[TRAIN] Iter[{}]; LR: {}; Loss: {:.6f}; Backprop: {:.4f} sec; Batch: {:.4f} sec'.
             format(train_iter, 
                    scheduler.get_lr()[0], 
-                   loss.data[0],
+                   loss.item(),
                    bp_t1 - bp_t0, 
                    batch_t1 - batch_t0))
 
