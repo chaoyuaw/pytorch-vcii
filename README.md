@@ -1,14 +1,14 @@
 # Video Compression through Image Interpolation
-[Chao-Yuan Wu](https://www.cs.utexas.edu/~cywu/), 
+[Chao-Yuan Wu](https://www.cs.utexas.edu/~cywu/),
 [Nayan Singhal](http://www.cs.utexas.edu/~nayans/),
 [Philipp Kr&auml;henb&uuml;hl](http://www.philkr.net/).  
-In ECCV, 2018. 
+In ECCV, 2018.
 [[Project Page](https://chaoyuaw.github.io/vcii/)]
 [[Paper](https://arxiv.org/abs/1804.06919)]
 <img class="" src = "./demo/teaser.png" height="405px"></img>
 
 ## Overview
-PyTorch implementation of deep video compression codec. 
+PyTorch implementation of deep video compression codec.
 
 Currently supported:
 - Training interpolation models with different offsets.
@@ -68,7 +68,7 @@ TVL MS-SSIM: 0.61841	0.81475	0.85905	0.87109	0.87745	0.88022	0.87903	0.87486	0.8
 TVL PSNR   : 28.02937	28.63096	28.87302	28.87184	28.77673	28.64452	28.44989	28.28644	28.19869	28.15354
 ```
 
-Output images with different number of 
+Output images with different number of
 progression compression iterations
 are stored in a directory called `output`.
 It starts with the blurry output with 1 iteration:
@@ -81,7 +81,7 @@ to the better output with 10 iterations:
 
 Since we've only trained the model for 3 minutes,
 the results don't look great yet, but we can see that
-it rouphly starts to reconstruct the frames.
+it roughly starts to reconstruct the frames.
 
 The final result using full training set will look like:
 
