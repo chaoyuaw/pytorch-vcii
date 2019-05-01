@@ -94,6 +94,13 @@ for more examples.
 To train or evaluate on additional datasets,
 please see [`DATA.md`](DATA.md) for details and instructions.
 
+## Model weights and logs
+Model weights are available [`here`](https://drive.google.com/file/d/1ApH4hfhhkTpxAeZ9MvexsRbEiVE3cDlx/view?usp=sharing).
+The associated logs are available [`here`](https://drive.google.com/file/d/14NY0VpzzDIMlyktTABCOMQuAoHNVyf2_/view?usp=sharing).
+
+## Kinetics video IDs
+The list of Kinetics videos we used for train/val/test is available [`here`](https://drive.google.com/drive/folders/1MOLuoGDE6lZnmXLJHTUNkJtfY1l2sZSC?usp=sharing).
+
 ## Citation
 If you find this model useful for your research, please use the following BibTeX entry.
 <pre>
